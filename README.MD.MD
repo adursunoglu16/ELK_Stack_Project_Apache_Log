@@ -8,7 +8,7 @@
 * Install Metricbeat
 * Install Logstash.
 * Install Kibana.
-or you can install both using docker-compose
+# or you can install both using docker-compose
 
 # Create an EC2 instance:
 
